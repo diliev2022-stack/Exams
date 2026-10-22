@@ -9,7 +9,7 @@ namespace DAL.Data.Entities
 {
     public class Town
     {
-       
+       //towns
     public int Id {  get; set; }
 
     [Required]
